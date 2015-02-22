@@ -1,4 +1,4 @@
-update=Thu 19 Feb 2015 01:13:57 PM EET
+update=Sun 22 Feb 2015 02:13:43 PM EET
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=relays
+LibName32=w_relay

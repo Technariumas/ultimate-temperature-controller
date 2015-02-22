@@ -30,6 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:relays
+LIBS:w_relay
 LIBS:ultimate-temp-controller-cache
 EELAYER 25 0
 EELAYER END

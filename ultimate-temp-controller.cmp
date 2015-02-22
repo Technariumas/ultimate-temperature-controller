@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-15 BZR 5420)-product   date = Fri 20 Feb 2015 12:52:21 AM EET
+Cmp-Mod V01 Created by Cvpcb (2015-02-22 BZR 5442)-product   date = Sun 22 Feb 2015 02:16:40 PM EET
 
 BeginCmp
 TimeStamp = /54E5B803/54E5E4B5;
@@ -260,6 +260,20 @@ IdModule  = Transistors_TO-220:TO-220_FET-GDS_Vertical_LargePads;
 EndCmp
 
 BeginCmp
+TimeStamp = /54E5B803/54E70471;
+Reference = Q3;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54E72CD3;
+Reference = Q4;
+ValeurCmp = MOS_N;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
 TimeStamp = /54E5B803/54E6350E;
 Reference = R1;
 ValeurCmp = R;
@@ -302,10 +316,52 @@ IdModule  = Resistors_SMD:R_0603_HandSoldering;
 EndCmp
 
 BeginCmp
+TimeStamp = /54E5B803/54E9BCF0;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54E6FE96;
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54E6F970;
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54E6F29C;
+Reference = R10;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54E72CC7;
+Reference = R11;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54E9BDFB;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
 TimeStamp = /54E5B803/54E64FE0;
 Reference = RL1;
 ValeurCmp = FINDER-40.51;
-IdModule  = Relays_ThroughHole:Relay_DPDT_Schrack-RT2_RM5mm;
+IdModule  = w_relay:relay_40.61;
 EndCmp
 
 BeginCmp
