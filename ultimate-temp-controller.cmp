@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-22 BZR 5442)-product   date = Sun 22 Feb 2015 02:16:40 PM EET
+Cmp-Mod V01 Created by Cvpcb (2015-02-22 BZR 5442)-product   date = Sun 22 Feb 2015 04:48:24 PM EET
 
 BeginCmp
 TimeStamp = /54E5B803/54E5E4B5;
@@ -158,7 +158,7 @@ BeginCmp
 TimeStamp = /54E5B803/54E5BBEF;
 Reference = CON1;
 ValeurCmp = SD_Card;
-IdModule  = w_conn_misc:sd_socket;
+IdModule  = w_conn_misc:SD-CARD-PROCON-19608;
 EndCmp
 
 BeginCmp
