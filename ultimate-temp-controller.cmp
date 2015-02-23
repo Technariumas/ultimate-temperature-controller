@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-22 BZR 5442)-product   date = Sun 22 Feb 2015 04:48:24 PM EET
+Cmp-Mod V01 Created by Cvpcb (2015-02-22 BZR 5442)-product   date = Mon 23 Feb 2015 11:45:34 PM EET
 
 BeginCmp
 TimeStamp = /54E5B803/54E5E4B5;
@@ -99,9 +99,9 @@ IdModule  = Capacitors_SMD:C_0603_HandSoldering;
 EndCmp
 
 BeginCmp
-TimeStamp = /54E5B803/54E5C6D9;
+TimeStamp = /54E5B803/54EBA0B3;
 Reference = C15;
-ValeurCmp = 1uF;
+ValeurCmp = 100n;
 IdModule  = Capacitors_SMD:C_0603_HandSoldering;
 EndCmp
 
@@ -225,6 +225,13 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
 EndCmp
 
 BeginCmp
+TimeStamp = /54E5B803/54EBB386;
+Reference = P7;
+ValeurCmp = CONN_01X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
 TimeStamp = /54E5B803/54E5D00E;
 Reference = P8;
 ValeurCmp = THERMOCOUPLE;
@@ -297,7 +304,7 @@ EndCmp
 BeginCmp
 TimeStamp = /54E5B803/54E5C7E3;
 Reference = R4;
-ValeurCmp = R;
+ValeurCmp = 10k;
 IdModule  = Resistors_SMD:R_0603_HandSoldering;
 EndCmp
 
@@ -358,10 +365,24 @@ IdModule  = Resistors_SMD:R_0603_HandSoldering;
 EndCmp
 
 BeginCmp
-TimeStamp = /54E5B803/54E64FE0;
-Reference = RL1;
-ValeurCmp = FINDER-40.51;
-IdModule  = w_relay:relay_40.61;
+TimeStamp = /54E5B803/54EBA435;
+Reference = R13;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54EBA4C3;
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54E9CA89;
+Reference = RLY1;
+ValeurCmp = RELAY_40.61;
+IdModule  = ;
 EndCmp
 
 BeginCmp
