@@ -1,5 +1,5 @@
-# ultimate-temperature-controller
-I've build a bunch of various temperature controllers and temperature sensor interfaces over the years. This one is to end the suffering. 
+# The Ultimate temperature controller
+I've built a bunch of various temperature controllers and temperature sensor interfaces over the years. This one is to end the suffering. 
 
 ![3d render](https://raw.githubusercontent.com/Miceuz/ultimate-temperature-controller/master/ultimate-temp-controller.png)
 
