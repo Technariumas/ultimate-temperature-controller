@@ -1,6 +1,8 @@
 # ultimate-temperature-controller
 I've build a bunch of various temperature controllers and temperature sensor interfaces over the years. This one is to end the suffering. 
 
+![3d render](https://raw.githubusercontent.com/Miceuz/ultimate-temperature-controller/master/ultimate-temp-controller.png)
+
 Features:
  * Arduino compatible
  * Thermocouple input via MAX31855
