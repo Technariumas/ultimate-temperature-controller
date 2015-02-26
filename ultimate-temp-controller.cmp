@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-22 BZR 5442)-product   date = Mon 23 Feb 2015 11:45:34 PM EET
+Cmp-Mod V01 Created by Cvpcb (2015-02-24 BZR 5451)-product   date = Tue 24 Feb 2015 01:51:23 PM EET
 
 BeginCmp
 TimeStamp = /54E5B803/54E5E4B5;
@@ -400,10 +400,10 @@ IdModule  = SMD_Packages:SOT-223;
 EndCmp
 
 BeginCmp
-TimeStamp = /54E5B803/54E671E6;
+TimeStamp = /54E5B803/54EC686C;
 Reference = U3;
-ValeurCmp = 74LS125;
-IdModule  = Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm;
+ValeurCmp = 4050;
+IdModule  = Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm;
 EndCmp
 
 BeginCmp
