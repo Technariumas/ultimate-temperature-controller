@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-24 BZR 5451)-product   date = Tue 24 Feb 2015 01:51:23 PM EET
+Cmp-Mod V01 Created by Cvpcb (2015-02-24 BZR 5451)-product   date = Mon 02 Mar 2015 09:43:34 AM EET
 
 BeginCmp
 TimeStamp = /54E5B803/54E5E4B5;
@@ -166,6 +166,27 @@ TimeStamp = /54E5B803/54E65494;
 Reference = D1;
 ValeurCmp = DIODE;
 IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54F4400B;
+Reference = D2;
+ValeurCmp = TVS-DUAL;
+IdModule  = SMD_Packages:SOT-323;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54F42D75;
+Reference = D3;
+ValeurCmp = TVS-DUAL;
+IdModule  = SMD_Packages:SOT-323;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E5B803/54F41A84;
+Reference = D4;
+ValeurCmp = TVS-DUAL;
+IdModule  = SMD_Packages:SOT-323;
 EndCmp
 
 BeginCmp
