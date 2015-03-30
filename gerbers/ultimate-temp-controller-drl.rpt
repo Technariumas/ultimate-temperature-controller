@@ -1,0 +1,21 @@
+Drill report for /home/miceuz/Xaltura/ultimate-temp-controller/ultimate-temp-controller.kicad_pcb
+Created on Mon 09 Mar 2015 11:04:35 AM EET
+Drill report for plated through holes :
+T1  0,40mm  0,016"  (120 holes)
+T2  0,80mm  0,032"  (6 holes)
+T3  1,00mm  0,039"  (3 holes)
+T4  1,02mm  0,040"  (34 holes)
+T5  1,14mm  0,045"  (3 holes)
+T6  1,25mm  0,049"  (11 holes)
+T7  1,50mm  0,059"  (8 holes)
+T8  3,50mm  0,138"  (6 holes)
+
+Total plated holes count 191
+
+
+Drill report for unplated through holes :
+T1  1,50mm  0,059"  (2 holes)
+
+Total unplated holes count 2
+
+
