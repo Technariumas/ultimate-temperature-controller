@@ -34,3 +34,8 @@ Slave has the same power output options as in standalone mode. 12V supply for th
 In case of master operation the master controller scans RS485 network for slaves. SD card is used to store temperature profiles. A profile can be selected via LCD/keypad interface for each of the slaves available on the RS485 network.
 
 Master is not equiped with power switching options, but can provide 12V to slaves.
+
+# The first prototype board
+
+![3d render](https://raw.githubusercontent.com/Miceuz/ultimate-temperature-controller/master/temp-controller v1.0.0.jpg)
+
