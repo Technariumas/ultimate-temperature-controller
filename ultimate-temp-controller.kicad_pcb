@@ -226,7 +226,7 @@
     (add_net /controller/MOSI_3V3)
   )
 
-  (module w_conn_misc:SD-CARD-PROCON-19608 locked (layer F.Cu) (tedit 551FC7B9) (tstamp 54EC69A6)
+  (module w_conn_misc:SD-CARD-PROCON-19608 locked (layer F.Cu) (tedit 551FD60C) (tstamp 54EC69A6)
     (at 115.95 117.85 90)
     (path /54E5B803/54E5BBEF)
     (fp_text reference CON1 (at 11.3 0.5 180) (layer F.SilkS)
@@ -267,8 +267,8 @@
     (pad 3 smd rect (at -1 -1.02 90) (size 1.8 0.9) (layers F.Cu F.Paste F.Mask)
       (net 2 GND))
     (pad WP smd rect (at -1 13 90) (size 1.8 0.9) (layers F.Cu F.Paste F.Mask))
-    (pad SH1 smd rect (at 20 14.496 90) (size 2 1.4) (layers F.Cu F.Paste F.Mask))
-    (pad SH2 smd rect (at 21.15 -13.589 90) (size 2 1.527) (layers F.Cu F.Paste F.Mask))
+    (pad SH1 smd rect (at 20 -14.496 90) (size 2 1.4) (layers F.Cu F.Paste F.Mask))
+    (pad SH2 smd rect (at 21.15 13.589 90) (size 2 1.527) (layers F.Cu F.Paste F.Mask))
     (pad "" np_thru_hole circle (at 23.3 11.94 90) (size 2 2) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
     (pad "" np_thru_hole circle (at 23.3 -12.32 90) (size 2 2) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
     (model /home/miceuz/Xaltura/ultimate-temp-controller/walter/conn_misc/sd_socket.wrl
