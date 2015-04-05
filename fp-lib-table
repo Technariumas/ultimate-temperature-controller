@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name w_relay)(type KiCad)(uri "$(KISYSMOD)/mod_relay/w_relay.pretty")(options "")(descr ""))
+)

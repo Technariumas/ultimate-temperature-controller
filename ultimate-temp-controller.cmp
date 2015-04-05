@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-24 BZR 5451)-product   date = Mon 02 Mar 2015 09:43:34 AM EET
+Cmp-Mod V01 Created by Cvpcb (2015-04-03 BZR 5571)-product   date = Sun 05 Apr 2015 02:09:06 PM EEST
 
 BeginCmp
 TimeStamp = /54E5B803/54E5E4B5;
@@ -172,27 +172,27 @@ BeginCmp
 TimeStamp = /54E5B803/54F4400B;
 Reference = D2;
 ValeurCmp = TVS-DUAL;
-IdModule  = SMD_Packages:SOT-323;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /54E5B803/54F42D75;
 Reference = D3;
 ValeurCmp = TVS-DUAL;
-IdModule  = SMD_Packages:SOT-323;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
 EndCmp
 
 BeginCmp
 TimeStamp = /54E5B803/54F41A84;
 Reference = D4;
 ValeurCmp = TVS-DUAL;
-IdModule  = SMD_Packages:SOT-323;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
 EndCmp
 
 BeginCmp
-TimeStamp = /54E5B803/54E5BB29;
+TimeStamp = /54E5B803/5521429B;
 Reference = IC1;
-ValeurCmp = ATMEGA328-A;
+ValeurCmp = ATMEGA328P-A;
 IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
 EndCmp
 
@@ -403,7 +403,7 @@ BeginCmp
 TimeStamp = /54E5B803/54E9CA89;
 Reference = RLY1;
 ValeurCmp = RELAY_40.61;
-IdModule  = ;
+IdModule  = w_relay:relay_40.61;
 EndCmp
 
 BeginCmp
